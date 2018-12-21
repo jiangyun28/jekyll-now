@@ -98,3 +98,4 @@ Using calculus knowledge, to find the maxima of the log-likelihood function (if 
 * Take second derivative of $\mathcal{L}(\theta;x)$ w.r.t $\theta$, and confirm it is negative.
 
 Note that this might not always lead to the global maximum (could be local maximum).
+
