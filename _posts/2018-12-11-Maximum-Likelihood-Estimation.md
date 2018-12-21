@@ -2,7 +2,6 @@
 layout: post
 title: Maximum Likelihood Estimation
 ---
-
 Maximum likelihood estimation method is frequently used in Standford CS229 notes for estimating the parameter of the machine learning models. This serves as simple guide and reference for understanding the key concepts.
 
 [TOC]
